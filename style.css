@@ -62,8 +62,8 @@ button{
     background-color:hsl(150, 100%, 66%);
     padding: 10px;
     border: none;
-    position: fixed ;
-    bottom: 87px;
+    position: absolute ;
+    bottom: -25px;
 }
 
 button:hover{
